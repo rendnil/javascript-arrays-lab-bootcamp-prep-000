@@ -29,7 +29,7 @@ function destructivelyRemoveFirstKitten() {
   
 }
 
-function appenKitten(name)  {
+function appendKitten(name)  {
   
   array = [name, ...kittens]
   return array
