@@ -28,3 +28,11 @@ function destructivelyRemoveFirstKitten() {
   return kittens
   
 }
+
+function appenKitten(name)  {
+  
+  array = [name, ...kittens]
+  return array
+  
+  
+}
