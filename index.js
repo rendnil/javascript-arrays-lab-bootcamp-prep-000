@@ -42,3 +42,9 @@ function prependKitten(name) {
   return array
   
 }
+
+function removeLastKitten() {
+  var array = 
+  
+}
+  
